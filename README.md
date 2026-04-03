@@ -11,7 +11,7 @@ For this assignment, I chose to write about a problem area I care about deeply: 
 - `README.md` – documentation of my workflow and submission details
 
 ## Coding Assistant Used
-I used **Claude** as my coding assistant for this assignment.
+I used OpenAI and **Claude** as my coding assistant for this assignment.
 
 ## Git Steps I Used
 1. Created a local project folder for the assignment
