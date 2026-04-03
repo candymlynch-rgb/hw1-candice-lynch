@@ -34,4 +34,4 @@ This exercise showed me that AI can be useful for creating a strong starting poi
 ## Walkthrough Video
 Paste your unlisted YouTube or Vimeo link here:
 
-[My Walkthrough Video](PASTE-YOUR-LINK-HERE)
+[My Walkthrough Video] https://youtu.be/BuAP_nC9Qv4
